@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-- Slight CSS tweaks: highlighting which button is selected to see which games are funded.
+* [x] List anything else that you can get done to improve the app functionality!
+- Slight CSS tweaks: highlighting which button is selected to see which games are shown.
 
 ## Video Walkthrough
 
