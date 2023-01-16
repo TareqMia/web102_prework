@@ -23,15 +23,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![VzpjFrvcKW](https://user-images.githubusercontent.com/39747003/212726626-d10df82f-9f0a-40d9-b7a7-7ee40160ed55.gif)
 
-<img src='http://g.recordit.co/VzpjFrvcKW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
