@@ -115,6 +115,7 @@ gamesCard.innerHTML = `${GAMES_JSON.length}`
 
 // show only games that do not yet have enough funding
 function filterUnfundedOnly() {
+    unfundedBtn.classList.add('focus')
     deleteChildElements(gamesContainer);
 
     // use filter() to get a list of games that have not yet met their goal
@@ -129,6 +130,7 @@ function filterUnfundedOnly() {
 // show only games that are fully funded
 function filterFundedOnly() {
     deleteChildElements(gamesContainer);
+    fundedBtn.classList.add('focus')
 
     // use filter() to get a list of games that have met or exceeded their goal
     let filtered = GAMES_JSON.filter((game) => {
@@ -141,6 +143,7 @@ function filterFundedOnly() {
 
 // show all games
 function showAllGames() {
+    allBtn.classList.add('focus')
     deleteChildElements(gamesContainer);
     
     // add all games from the JSON data to the DOM
